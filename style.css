@@ -421,7 +421,7 @@ footer .phone {
 
 /* ===== BANNER ===== */
 .banner {
-    width: 100%;
+    width: 85%;
     margin: 0;
     padding: 0;
     overflow: hidden;
@@ -429,8 +429,8 @@ footer .phone {
 
 .banner img {
     display: block;
-    width: 100%;
+    width: 85%;
     height: auto;
-    max-width: 100%;
+    max-width: 85%;
     object-fit: cover;
 }
